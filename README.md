@@ -120,7 +120,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 <ul style="list-style-type: square;">
   <li>
     <mark style="background-color: #0078d7; color: black;">
-      <strong>Vs Code</strong>
+      <strong>'Vs Code'</strong>
     </mark>
   </li>
 </ul>
@@ -128,7 +128,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 <ul style="list-style-type: square;">
   <li>
     <mark style="background-color: #ababab; color: black;">
-      <strong>Cypress</strong>
+      <strong>'Cypress'</strong>
     </mark>
   </li>
 </ul>
@@ -136,7 +136,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 <ul style="list-style-type: square;">
   <li>
     <mark style="background-color: #00ff00; color: black;">
-      <strong>Swagger</strong>
+      <strong>'Swagger'</strong>
     </mark>
   </li>
 </ul>

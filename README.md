@@ -1,6 +1,6 @@
 
 ## **PROVA DE CONHECIMENTO - KEEGGO**
-
+---
 Essa é uma **PROVA DE CONHECIMENTO** de testes **FUNCIONAIS** com **CYPRESS**.
 
 Esta prova tem como objetivo mostrar meus conhecimentos conceitual e prático
@@ -24,6 +24,7 @@ framework de automação de testes.
 #### — Todo Tree (é uma extesão do VS Code)
 ---
 ### Rodando localmente
+---
 #### **Via terminal, rode os seguintes comandos.**
 _Clone o projeto_
 ```bash
@@ -56,7 +57,7 @@ npx cyprees open ou npx cypress run
 ---
 ### **Instalação**
 <details>
-<summary>Observação - em caso de erro ao instalar as dependências siga os seguintes passo:
+<summary> <strong><span style="color: red;">Observação</strong></span> - em caso de erro ao instalar as dependências siga os seguintes passo:
 </summary>
 
 **1  -** _Delete o projeto da sua máquina_
@@ -99,7 +100,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 ## Status
 
 <h1>
-<p><span style="font-size: 10px;">✓  Testes Funcionais Frontend</span></p>
+<p><span style="color: #071173;"><span style="font-size: 10px;">✓  Testes Funcionais Frontend</span></span></p>
 <img src="Status Report - Teste_Frontend.jpg"/>
 </h1>
 

@@ -1,6 +1,6 @@
 
 ## **PROVA DE CONHECIMENTO - KEEGGO**
-
+---
 Essa é uma **PROVA DE CONHECIMENTO** de testes **FUNCIONAIS** com **CYPRESS**.
 
 Esta prova tem como objetivo mostrar meus conhecimentos conceitual e prático
@@ -9,7 +9,7 @@ criação de cenários de testes e capacidade de implementação com o
 framework de automação de testes.
 
 ### Abaixo segue os requisitos de configurações para rodar o projeto.
-
+---
 ### Requisitos Gerais
 #### — Node.js: [Download Node.js](https://nodejs.org/en/download)
 
@@ -18,14 +18,15 @@ framework de automação de testes.
 #### — Git: [Download Git](https://git-scm.com/)
 
 #### — Cypress: [Download Cypress](https://docs.cypress.io/app/get-started/install-cypress)
-
+---
 ### Adicional (Extensão e Plugin)
 #### — API de plugins do Cypress: [Download]((https://www.npmjs.com/package/cypress-plugin-api))
 #### — Todo Tree (é uma extesão do VS Code)
-
+---
 ### Rodando localmente
+---
 #### **Via terminal, rode os seguintes comandos.**
-_Clone o projeto_
+_Clone o projeto da branch main_
 ```bash
 git clone https://github.com/Delvan-Santos/Prova_Tecnica_QA_Commerce.git
 ```
@@ -53,10 +54,10 @@ _Execute os testes_
 ```bash
 npx cyprees open ou npx cypress run
 ```
-
+---
 ### **Instalação**
 <details>
-<summary>Observação - em caso de erro ao instalar as dependências siga os seguintes passo:
+<summary> <strong><span style="color: red;">Observação</strong></span> - em caso de erro ao instalar as dependências siga os seguintes passo:
 </summary>
 
 **1  -** _Delete o projeto da sua máquina_
@@ -69,7 +70,8 @@ npx cyprees open ou npx cypress run
 
 **5 -** _Instale as novas dependências ( npm install). Depois disso é só seguir o fluxo normal de clone/fork do projeto e coloca-lo para rodar._
 </details>
-    
+
+  --- 
 ### Sobre os Testes
 
 Abaixo segue um pequeno status report dos testes executados.
@@ -94,53 +96,47 @@ Neste caso seria necessário fazer uma correção no endpoint: **'http://localho
 
 O erro se deu porque inicialmente a **API** não estava aceitando criar usuários com e-mail inválido ou incorreto, porém ao executar os teste hoje percebi que a **API** está aceitando qualquer valor no campo e-mail, porém para fazer cadastro é necessário um e-mail válido, neste caso seria necessário fazer uma correção no endpoint: **http://localhost:3000/api/users' "Criar um novo usuário"**.
 
-
+---
 ## Status
-#### ✓  Testes Funcionais Frontend
+
 <h1>
+<p>✓  Testes Funcionais Frontend</p>
 <img src="Status Report - Teste_Frontend.jpg"/>
 </h1>
 
 <h1>
-<p>✓  Testes Funcionais API<p/>
+<p>✓  Testes Funcionais API</p>
 <img src="Status Report - Testes Funcionais_API.jpg"/>
 </h1>
 
 <h1>
-<p>✓  Testes Login API<p/>
+<p>✓  Testes Login API</p>
 <img src="Status Report - Teste_Login_API.jpg"/>
 </h1>
-
-<p>✓  Testes Login API<p/>
-
-![Print1](Issue%20-%20Testes%20Funcionais_API.jpg)
+---
 
 ## 🛠️ Ferramentas
 
-- [Cypress](https://docs.cypress.io/app/get-started/install-cypress)
-- [Swagger](https://nodejs.org/en/download)
-- [Vs Code](https://code.visualstudio.com/)
-
-Testando alguns simbolos em HTML no README
-
-<mark>
-<strong>
-Javascrpit
-</strong>
-</mark>
-
-<p>Opções: &bull; Azul &bull; Verde &bull; Amarelo</p>
-<ul style="list-style: none;" >
-  <li>&#10003; Check</li>   <!-- ✔ -->
-  <li>&#10148;  Seta</li>    <!-- ➤ -->
-  <li>&#9733; Estrela</li>  <!-- ★ -->
-</ul>
-
-<ul style="list-style-type: circle;">
-  <li>Item</li>
+<ul style="list-style-type: square;">
+  <li>
+    <mark style="background-color: #0078d7; color: black;">
+      <strong>Vs Code</strong>
+    </mark>
+  </li>
 </ul>
 
 <ul style="list-style-type: square;">
-  <li>Item</li>
+  <li>
+    <mark style="background-color: #ababab; color: black;">
+      <strong>Cypress</strong>
+    </mark>
+  </li>
 </ul>
 
+<ul style="list-style-type: square;">
+  <li>
+    <mark style="background-color: #00ff00; color: black;">
+      <strong>Swagger</strong>
+    </mark>
+  </li>
+</ul>

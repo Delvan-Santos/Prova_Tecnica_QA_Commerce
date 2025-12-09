@@ -82,7 +82,7 @@ Foram executados três baterias de teste:
 
 #### — Testes Login API
 
- **1 - Feature Teste Funcionais Frontend -** cenários passaram **100%**.
+ **1 - Feature Teste Funcionais Frontend -** testes passaram **100%**.
 
  **2 - Feature Testes Funcionais API -** temos apenas um cenário com erro devido ao seguinte motivo:
 

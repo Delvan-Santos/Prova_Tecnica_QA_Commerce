@@ -9,7 +9,7 @@ criação de cenários de testes e capacidade de implementação com o
 framework de automação de testes.
 
 ### Abaixo segue os requisitos de configurações para rodar o projeto.
-
+---
 ### Requisitos Gerais
 #### — Node.js: [Download Node.js](https://nodejs.org/en/download)
 
@@ -18,11 +18,11 @@ framework de automação de testes.
 #### — Git: [Download Git](https://git-scm.com/)
 
 #### — Cypress: [Download Cypress](https://docs.cypress.io/app/get-started/install-cypress)
-
+---
 ### Adicional (Extensão e Plugin)
 #### — API de plugins do Cypress: [Download]((https://www.npmjs.com/package/cypress-plugin-api))
 #### — Todo Tree (é uma extesão do VS Code)
-
+---
 ### Rodando localmente
 #### **Via terminal, rode os seguintes comandos.**
 _Clone o projeto_
@@ -53,7 +53,7 @@ _Execute os testes_
 ```bash
 npx cyprees open ou npx cypress run
 ```
-
+---
 ### **Instalação**
 <details>
 <summary>Observação - em caso de erro ao instalar as dependências siga os seguintes passo:
@@ -69,7 +69,8 @@ npx cyprees open ou npx cypress run
 
 **5 -** _Instale as novas dependências ( npm install). Depois disso é só seguir o fluxo normal de clone/fork do projeto e coloca-lo para rodar._
 </details>
-    
+
+  --- 
 ### Sobre os Testes
 
 Abaixo segue um pequeno status report dos testes executados.
@@ -94,11 +95,11 @@ Neste caso seria necessário fazer uma correção no endpoint: **'http://localho
 
 O erro se deu porque inicialmente a **API** não estava aceitando criar usuários com e-mail inválido ou incorreto, porém ao executar os teste hoje percebi que a **API** está aceitando qualquer valor no campo e-mail, porém para fazer cadastro é necessário um e-mail válido, neste caso seria necessário fazer uma correção no endpoint: **http://localhost:3000/api/users' "Criar um novo usuário"**.
 
-
+---
 ## Status
 
 <h1>
-<p><span style="font-size: 20px;">✓  Testes Funcionais Frontend</span></p>
+<p><span style="font-size: 10px;">✓  Testes Funcionais Frontend</span></p>
 <img src="Status Report - Teste_Frontend.jpg"/>
 </h1>
 

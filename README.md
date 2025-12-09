@@ -26,7 +26,7 @@ framework de automação de testes.
 ### Rodando localmente
 ---
 #### **Via terminal, rode os seguintes comandos.**
-_Clone o projeto_
+_Clone o projeto da branch main_
 ```bash
 git clone https://github.com/Delvan-Santos/Prova_Tecnica_QA_Commerce.git
 ```
@@ -100,7 +100,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 ## Status
 
 <h1>
-<p><span style="color: #071173;"><span style="font-size: 10px;">✓  Testes Funcionais Frontend</span></span></p>
+<p>✓  Testes Funcionais Frontend</p>
 <img src="Status Report - Teste_Frontend.jpg"/>
 </h1>
 

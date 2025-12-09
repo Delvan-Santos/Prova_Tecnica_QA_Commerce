@@ -138,13 +138,3 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
     </mark>
   </li>
 </ul>
-
-
-Testando alguns simbolos em HTML no README
-<ul style="list-style: none;" >
-  <li>&#10003; Check</li>   <!-- ✔ -->
-  <li>&#10148;  Seta</li>    <!-- ➤ -->
-  <li>&#9733; Estrela</li>  <!-- ★ -->
-</ul>
-
-

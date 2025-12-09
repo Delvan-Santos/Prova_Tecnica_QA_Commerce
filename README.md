@@ -111,7 +111,7 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 <p>✓  Testes Login API</p>
 <img src="Status Report - Teste_Login_API.jpg"/>
 </h1>
-
+---
 
 ## 🛠️ Ferramentas
 

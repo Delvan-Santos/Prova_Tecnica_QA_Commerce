@@ -96,51 +96,55 @@ O erro se deu porque inicialmente a **API** não estava aceitando criar usuário
 
 
 ## Status
-#### ✓  Testes Funcionais Frontend
+
 <h1>
+<p><span style="font-size: 20px;">✓  Testes Funcionais Frontend</span></p>
 <img src="Status Report - Teste_Frontend.jpg"/>
 </h1>
 
 <h1>
-<p>✓  Testes Funcionais API<p/>
+<p>✓  Testes Funcionais API</p>
 <img src="Status Report - Testes Funcionais_API.jpg"/>
 </h1>
 
 <h1>
-<p>✓  Testes Login API<p/>
+<p>✓  Testes Login API</p>
 <img src="Status Report - Teste_Login_API.jpg"/>
 </h1>
 
-<p>✓  Testes Login API<p/>
-
-![Print1](Issue%20-%20Testes%20Funcionais_API.jpg)
 
 ## 🛠️ Ferramentas
 
-- [Cypress](https://docs.cypress.io/app/get-started/install-cypress)
-- [Swagger](https://nodejs.org/en/download)
-- [Vs Code](https://code.visualstudio.com/)
+<ul style="list-style-type: square;">
+  <li>
+    <mark style="background-color: #0078d7; color: black;">
+      <strong>Vs Code</strong>
+    </mark>
+  </li>
+</ul>
+
+<ul style="list-style-type: square;">
+  <li>
+    <mark style="background-color: #ababab; color: black;">
+      <strong>Cypress</strong>
+    </mark>
+  </li>
+</ul>
+
+<ul style="list-style-type: square;">
+  <li>
+    <mark style="background-color: #00ff00; color: black;">
+      <strong>Swagger</strong>
+    </mark>
+  </li>
+</ul>
+
 
 Testando alguns simbolos em HTML no README
-
-<mark>
-<strong>
-Javascrpit
-</strong>
-</mark>
-
-<p>Opções: &bull; Azul &bull; Verde &bull; Amarelo</p>
 <ul style="list-style: none;" >
   <li>&#10003; Check</li>   <!-- ✔ -->
   <li>&#10148;  Seta</li>    <!-- ➤ -->
   <li>&#9733; Estrela</li>  <!-- ★ -->
 </ul>
 
-<ul style="list-style-type: circle;">
-  <li>Item</li>
-</ul>
-
-<ul style="list-style-type: square;">
-  <li>Item</li>
-</ul>
 

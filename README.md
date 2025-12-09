@@ -11,23 +11,23 @@ framework de automação de testes.
 ### Abaixo segue os requisitos de configurações para rodar o projeto.
 
 ### Requisitos Gerais
-#### — Node.js: https://nodejs.org/en/download
+#### — Node.js: [Download Node.js](https://nodejs.org/en/download)
 
-#### — Visual Studio Code ou outro editor de preferência: https://code.visualstudio.com/download
+#### — Visual Studio Code ou outro editor de preferência: [Download Vs Code](https://code.visualstudio.com/download)
 
-#### — Git: https://git-scm.com/
+#### — Git: [Download Git](https://git-scm.com/)
 
-#### — Cypress: https://docs.cypress.io/app/get-started/install-cypress
+#### — Cypress: [Download Cypress](https://docs.cypress.io/app/get-started/install-cypress)
 
 ### Adicional (Extensão e Plugin)
-#### — API de plugins do Cypress (https://www.npmjs.com/package/cypress-plugin-api)
+#### — API de plugins do Cypress: [Download]((https://www.npmjs.com/package/cypress-plugin-api))
 #### — Todo Tree (é uma extesão do VS Code)
 
 ## Rodando localmente
 #### Via terminal, rode os seguintes comandos.
 Clone o projeto
 ```bash
-git clone https://github.com/fabioaraujoqa/qa-commerce.git
+git clone https://github.com/Delvan-Santos/Prova_Tecnica_QA_Commerce.git
 ```
 Entre no diretório do projeto
 ```bash
@@ -95,7 +95,27 @@ Neste caso seria necessário fazer uma correção no endpoint: http://localhost:
 O erro se deu porque inicialmente a API não estava aceitando criar usuários com e-mail inválido ou incorreto, porém ao executar os teste hoje percebi que a API está aceitando qualquer valor no campo e-mail, porém para fazer cadastro é necessário um e-mail válido, neste caso seria necessário fazer uma correção no endpoint: http://localhost:3000/api/users' "Criar um novo usuário".
 
 
-## Screenshots
+## Status
+<h1>
+<p>✓  Testes Funcionais Frontend<p/>
+<img src="Status Report - Teste_Frontend.jpg"/>
+</h1>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<h1>
+<p>✓  Testes Funcionais API<p/>
+<img src="Status Report - Testes Funcionais_API.jpg"/>
+</h1>
+
+<h1>
+<p>✓  Testes Login API<p/>
+<img src="Status Report - Teste_Login_API.jpg"/>
+</h1>
+
+## 🛠️ Ferramentas
+
+- [Cypress](https://docs.cypress.io/app/get-started/install-cypress)
+- [Swagger](https://nodejs.org/en/download)
+- [Vs Code](https://code.visualstudio.com/)
+
+
 
